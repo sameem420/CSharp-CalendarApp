@@ -6,3 +6,11 @@ C:\Users\root\source\repos\CalenderApp\CalenderApp\obj\Debug\CalenderApp.Propert
 C:\Users\root\source\repos\CalenderApp\CalenderApp\obj\Debug\CalenderApp.csproj.GenerateResource.cache
 C:\Users\root\source\repos\CalenderApp\CalenderApp\obj\Debug\CalenderApp.exe
 C:\Users\root\source\repos\CalenderApp\CalenderApp\obj\Debug\CalenderApp.pdb
+C:\Users\root\Documents\GitHub\CSharp-CalendarApp\CalenderApp\bin\Debug\CalenderApp.exe
+C:\Users\root\Documents\GitHub\CSharp-CalendarApp\CalenderApp\bin\Debug\CalenderApp.pdb
+C:\Users\root\Documents\GitHub\CSharp-CalendarApp\CalenderApp\obj\Debug\CalenderApp.csprojAssemblyReference.cache
+C:\Users\root\Documents\GitHub\CSharp-CalendarApp\CalenderApp\obj\Debug\CalenderApp.Form1.resources
+C:\Users\root\Documents\GitHub\CSharp-CalendarApp\CalenderApp\obj\Debug\CalenderApp.Properties.Resources.resources
+C:\Users\root\Documents\GitHub\CSharp-CalendarApp\CalenderApp\obj\Debug\CalenderApp.csproj.GenerateResource.cache
+C:\Users\root\Documents\GitHub\CSharp-CalendarApp\CalenderApp\obj\Debug\CalenderApp.exe
+C:\Users\root\Documents\GitHub\CSharp-CalendarApp\CalenderApp\obj\Debug\CalenderApp.pdb
