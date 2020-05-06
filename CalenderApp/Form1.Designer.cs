@@ -43,7 +43,7 @@
             this.btnExit.FlatAppearance.BorderSize = 0;
             this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnExit.Image = global::CalenderApp.Properties.Resources.close;
-            this.btnExit.Location = new System.Drawing.Point(267, -3);
+            this.btnExit.Location = new System.Drawing.Point(265, -1);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(32, 32);
             this.btnExit.TabIndex = 0;
@@ -57,7 +57,7 @@
             this.panel1.Controls.Add(this.lbl_dayName);
             this.panel1.Controls.Add(this.lbl_currentYear);
             this.panel1.Controls.Add(this.lbl_currentDay);
-            this.panel1.Location = new System.Drawing.Point(1, 31);
+            this.panel1.Location = new System.Drawing.Point(0, 31);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(295, 296);
             this.panel1.TabIndex = 1;
@@ -76,6 +76,7 @@
             // lbl_dayName
             // 
             this.lbl_dayName.AutoSize = true;
+            this.lbl_dayName.BackColor = System.Drawing.Color.Transparent;
             this.lbl_dayName.Font = new System.Drawing.Font("Century Gothic", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.lbl_dayName.Location = new System.Drawing.Point(9, 179);
             this.lbl_dayName.Name = "lbl_dayName";
@@ -110,6 +111,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.InfoText;
             this.ClientSize = new System.Drawing.Size(298, 328);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnExit);
