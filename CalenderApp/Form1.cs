@@ -19,15 +19,12 @@ namespace CalenderApp
             this.Close();
         }
 
-        private void panel1_MouseHover(object sender, EventArgs e)
-        {
-            btnExit.Visible = true;
-        }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             lbl_currentDay.Text = DateTime.Now.Day.ToString();
             lbl_currentYear.Text = DateTime.Now.Year.ToString();
+            lbl_dayName.Text = DateTime.Now.ToString("dddd");
+            lbl_monthName.Text = DateTime.Now.ToString("MMMM");
         }
     }
 }
